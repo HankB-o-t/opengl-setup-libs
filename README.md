@@ -55,7 +55,7 @@ ATENCION: fijese que los parametros insertados sean los siguientes:
 === Como configurar Visual Studio ===
 
 - En la imagen adjunta se vera como debe estar configurado ( En los parametros tapados, colocar la carpeta de inclusion y librerias de tu proyecto)
-
+![Image](https://github.com/HankB-o-t/opengl-setup-libs/blob/main/Properties.PNG)
 
 - Despues, en Vinculador/Linker y en Entrada/Input, añadir estas 2 librerias:
 
